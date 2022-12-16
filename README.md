@@ -1,2 +1,2 @@
 # cardio-vascular-prediction
-prediction of a given datasets by using 
+prediction of heart disease  using  stacking of ml models . 
